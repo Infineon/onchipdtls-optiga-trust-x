@@ -1,0 +1,3 @@
+[submodule "Libraries/TrustX"]
+	path = Libraries/TrustX
+	url = https://github.com/Infineon/optiga-trust-x.git
