@@ -23,7 +23,6 @@ In this guide you may find the following steps:
 
 * This get started guide uses the [OPTIGA™ Trust X evaluation and demonstration kit](https://www.infineon.com/cms/en/product/evaluation-boards/optiga-trust-x-eval-kit/)
 * This get started guide uses DAVE™ IDE as a reference software development platform
-* You need a Windows OS in order to follow this guide
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
