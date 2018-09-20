@@ -9,7 +9,7 @@ This repository contains one of Application Notes for [OPTIGA™ Trust X](www.in
 * You can find other Application Notes in the respective [repository](https://github.com/Infineon/appnotes-optiga-trust-x)
 
 ## Summary
-In this guide you may find the following steps:
+In [this](()https://github.com/Infineon/onchipdtls-optiga-trust-x/wiki) guide you may find the following steps:
 * How to import this project into the DAVE™ IDE
 * How to build the software and flash the development board (described below)
 * How to setup a local Ethernet network for this example
