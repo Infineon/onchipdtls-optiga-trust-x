@@ -1,4 +1,4 @@
-# Infineon's OPTIGA&trade; Trust X on-chip DTLS example
+# Infineon OPTIGA&trade; Trust X on-chip DTLS example
 
 ## Description
 
