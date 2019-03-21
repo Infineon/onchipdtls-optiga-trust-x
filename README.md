@@ -25,7 +25,7 @@ In [this](()https://github.com/Infineon/onchipdtls-optiga-trust-x/wiki) guide yo
 * This get started guide uses DAVE™ IDE as a reference software development platform
 
 ## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Infineon/v2x_host_software_package/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
